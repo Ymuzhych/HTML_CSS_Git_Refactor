@@ -11,4 +11,4 @@ Social Media Marketing: It helps to analyse to find the right platforms for mark
 
 [Deployed_link](https://ymuzhych.github.io/HTML_CSS_Git_Refactor/)
 
-[Reference](./LICENSE)
+[LICENSE](./LICENSE)
