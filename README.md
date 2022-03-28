@@ -1,2 +1,2 @@
 # Horiseon
-![Screenshot](./assets/images/Horiseon.jpg)
+![Screenshot](./assets/images/Screenshot.jpg)
