@@ -9,4 +9,4 @@ Online Reputation Management: Help businesses to control the online reputation.
 Social Media Marketing: It helps to analyse to find the right platforms for marketing. 
 
 
-[Deployed_link](git@github.com:Ymuzhych/HTML_CSS_Git_Refactor.git)
+[Deployed_link](https://ymuzhych.github.io/HTML_CSS_Git_Refactor/)
