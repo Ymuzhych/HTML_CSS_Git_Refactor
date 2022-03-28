@@ -1,2 +1,2 @@
 # Horiseon
-![Screenshot] (Horiseon.png)
+![Screenshot](Horiseon.jpg)
